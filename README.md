@@ -29,8 +29,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=47C5FB)
+![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
+![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=XML)
+![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Maven)
+![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+
+
 
 
 
