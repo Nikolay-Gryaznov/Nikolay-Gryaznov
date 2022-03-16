@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm Nikolay 👋
 
-<!--
-**Nikolay-Gryaznov/Nikolay-Gryaznov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Nikolay-Gryaznov&color=blueviolet)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Java Developer
+
+---
+
+- :computer: I like to write code
+- :books: I am constantly learning new things
+- 💪 I like to play volleyball
+- :camera: I love taking pictures
+- 🎉 I like to spend time with friends playing board or video games
+
+### Connect with me:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=Telegram)](https://t.me/Nikolay_Gryaznov)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=LinkedIn&logoColor=1195F5)](https://www.linkedin.com/in/nikolay-gryaznov/)
+
+### Languages and Tools
+
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
+![Oracle](https://img.shields.io/badge/-Oracle-090909?style=for-the-badge&logo=Oracle&logoColor=47C5FB)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=47C5FB)
+![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=47C5FB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=47C5FB)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Gryaznov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
