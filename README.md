@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Nikolay-Gryaznov&color=blueviolet)
 
 
-### I am Java Developer
+### I am Java Developer 😎
 
 ---
 
@@ -13,12 +13,17 @@
 - :camera: I love taking pictures
 - 🎉 I like to spend time with friends playing board or video games
 
-### Connect with me:
+### My resume 📄
+
+[![Resume](https://img.shields.io/badge/-Resume-090909)](https://docs.google.com/document/d/1xE-nSyZ2GXGpE5vzbi33X3rSFAW5SqD0/edit?usp=sharing&ouid=103554460292840856287&rtpof=true&sd=true)
+
+### Connect with me ✌
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=Telegram)](https://t.me/Nikolay_Gryaznov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=LinkedIn&logoColor=1195F5)](https://www.linkedin.com/in/nikolay-gryaznov/)
+[![Habr](https://img.shields.io/badge/-Habr-090909?logo=Habr&)](https://career.habr.com/nikolay_gryaznov)
 
-### Languages and Tools
+### Languages and Tools 💻
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
