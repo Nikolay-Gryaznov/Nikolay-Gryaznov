@@ -15,13 +15,17 @@
 
 ### My resume 📄
 
+[![Resume](https://img.shields.io/badge/-Resume-090909)](https://docs.google.com/document/d/1xE-nSyZ2GXGpE5vzbi33X3rSFAW5SqD0/edit?usp=sharing&ouid=103554460292840856287&rtpof=true&sd=true)
+
+### Connect with me ✌
+### My resume 📄
+
 [![Resume](https://img.shields.io/badge/-Resume-090909)](https://drive.google.com/file/d/1n6t9YjQI0_yc3wf7yTnVP-Sd3JYGshny/view?usp=sharing)
 
 ### Connect with me ✌
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=Telegram)](https://t.me/Nikolay_Gryaznov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=LinkedIn&logoColor=1195F5)](https://www.linkedin.com/in/nikolay-gryaznov/)
-[![Habr](https://img.shields.io/badge/-Habr-090909?logo=Habr&)](https://career.habr.com/nikolay_gryaznov)
 
 ### Languages and Tools 💻
 
