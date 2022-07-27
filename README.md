@@ -16,7 +16,7 @@
 
 ### My resume 📄
 
-[![Resume](https://img.shields.io/badge/-Resume-090909)](https://docs.google.com/document/d/1xE-nSyZ2GXGpE5vzbi33X3rSFAW5SqD0/edit?usp=sharing&ouid=103554460292840856287&rtpof=true&sd=true)
+[![Resume](https://img.shields.io/badge/-Resume-090909)](https://drive.google.com/file/d/1n6t9YjQI0_yc3wf7yTnVP-Sd3JYGshny/view?usp=sharing)
 
 ### Connect with me ✌
 
