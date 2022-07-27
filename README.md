@@ -15,7 +15,7 @@
 
 ### My resume 📄
 
-[![Resume](https://img.shields.io/badge/-Resume-090909)](https://docs.google.com/document/d/1xE-nSyZ2GXGpE5vzbi33X3rSFAW5SqD0/edit?usp=sharing&ouid=103554460292840856287&rtpof=true&sd=true)
+[![Resume](https://img.shields.io/badge/-Resume-090909)](https://drive.google.com/file/d/1n6t9YjQI0_yc3wf7yTnVP-Sd3JYGshny/view?usp=sharing)
 
 ### Connect with me ✌
 
@@ -40,11 +40,5 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-
-
-
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Gryaznov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
