@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Nikolay-Gryaznov&color=blueviolet)
 
 
-### I am Java Developer 😎
+### I am Go(Golang)/Java Developer 😎
 
 ---
 
@@ -15,12 +15,10 @@
 
 ### My resume 📄
 
-[![Resume](https://img.shields.io/badge/-Resume-090909)](https://docs.google.com/document/d/1xE-nSyZ2GXGpE5vzbi33X3rSFAW5SqD0/edit?usp=sharing&ouid=103554460292840856287&rtpof=true&sd=true)
+[![Go(Golang) - Resume](https://img.shields.io/badge/-Resume-090909)](https://drive.google.com/file/d/1nz2wj1ALWnEj2UiAaTNxSET8pVebG9Ns/view?usp=sharing)
 
-### Connect with me ✌
-### My resume 📄
+[![Java - Resume](https://img.shields.io/badge/-Resume-090909)](https://drive.google.com/file/d/1nz2wj1ALWnEj2UiAaTNxSET8pVebG9Ns/view?usp=sharing)
 
-[![Resume](https://img.shields.io/badge/-Resume-090909)](https://drive.google.com/file/d/1n6t9YjQI0_yc3wf7yTnVP-Sd3JYGshny/view?usp=sharing)
 
 ### Connect with me ✌
 
@@ -29,13 +27,13 @@
 
 ### Languages and Tools 💻
 
+![Java](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
 ![Oracle](https://img.shields.io/badge/-Oracle-090909?style=for-the-badge&logo=Oracle&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=47C5FB)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=47C5FB)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
