@@ -1,3 +1,4 @@
+
 ### Hi there, I'm Nikolay 👋
 
 ![](https://komarev.com/ghpvc/?username=Nikolay-Gryaznov&color=blueviolet)
@@ -24,6 +25,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=Telegram)](https://t.me/Nikolay_Gryaznov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?logo=LinkedIn&logoColor=1195F5)](https://www.linkedin.com/in/nikolay-gryaznov/)
+[![Habr](https://img.shields.io/badge/-Habr-090909?logo=Habr&)](https://career.habr.com/nikolay_gryaznov)
 
 ### Languages and Tools 💻
 
